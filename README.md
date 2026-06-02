@@ -1,8 +1,9 @@
 # Crawlsome - SEO Audit Platform
 
 ## Overview
-
+---
 ### Note
+---
 For confidenciality reasons, the repositories containing the code are made private. 
 
 SEO Audit Platform is a web application designed to help website owners, developers, and digital marketers identify technical and on-page SEO issues that may affect search engine visibility and overall website performance.
