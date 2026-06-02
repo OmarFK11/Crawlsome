@@ -1,7 +1,7 @@
 # Crawlsome - SEO Audit Platform
 
 
----
+
 ## Note
 
 For confidenciality reasons, the repositories containing the code are made private. 
