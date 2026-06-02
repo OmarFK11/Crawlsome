@@ -6,13 +6,7 @@ SEO Audit Platform is a web application designed to help website owners, develop
 
 The platform performs automated audits on submitted websites and generates actionable recommendations based on industry-standard SEO best practices. By consolidating multiple SEO checks into a single report, users can quickly discover optimization opportunities and improve their website's search engine ranking potential.
 
----
 
-## Problem Statement
-
-Many website owners struggle to identify SEO issues without using expensive enterprise tools or possessing advanced technical knowledge. Common problems such as missing metadata, broken links, poor accessibility practices, and performance bottlenecks often go unnoticed, negatively impacting search visibility and user experience.
-
-The objective of this project was to develop an accessible and user-friendly solution capable of automatically analyzing websites and providing clear, prioritized recommendations.
 
 ---
 
