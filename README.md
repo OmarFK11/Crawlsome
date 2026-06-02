@@ -64,9 +64,7 @@ Each detected issue is linked to a predefined recommendation containing:
 
 Users can access previously generated reports and track improvements over time.
 
-### Safe Website Analysis
 
-The application integrates Google Safe Browsing to help identify potentially unsafe or malicious websites before processing audit requests.
 
 ---
 
