@@ -1,4 +1,4 @@
-# SEO Audit Platform
+# Crawlsome - SEO Audit Platform
 
 ## Overview
 
@@ -133,6 +133,12 @@ Creating meaningful and actionable recommendations for each SEO issue required d
 The platform successfully automates the identification of common SEO issues and provides users with structured recommendations to improve website quality, accessibility, performance, and search engine visibility.
 
 By combining technical analysis, performance metrics, and security checks into a single workflow, the application offers a comprehensive overview of a website's SEO health.
+
+---
+
+## Demo Video
+
+[![SEO Audit Demo](assets/demo-thumbnail.png)](https://www.youtube.com/watch?v=EqIgOHPcEWA)
 
 ---
 
