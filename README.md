@@ -136,6 +136,12 @@ By combining technical analysis, performance metrics, and security checks into a
 
 ---
 
+## Demo Video
+
+[![SEO Audit Demo](assets/demo-thumbnail.png)](https://www.youtube.com/watch?v=EqIgOHPcEWA)
+
+---
+
 ## Future Improvements
 
 Planned enhancements include:
